@@ -3,6 +3,8 @@
 Welcome 👋  
 This repository exists **only** to collect **feature requests** and **bug reports** for **Daily Academic**.
 
+🌐 **Main website:** https://daily-academic.com
+
 There is no application code here, this is a community feedback hub to help us improve the platform.
 
 ---
@@ -55,6 +57,15 @@ You can check the real-time status of Daily Academic services here:
 🔗 **https://status.daily-academic.com**
 
 This page is powered by Better Stack and provides live updates on uptime, incidents, and maintenance.
+
+
+---
+
+## 📬 Contact
+
+For anything that does **not** belong in this repository (support, account issues, or general inquiries), please contact:
+
+📧 **support@daily-academic.com**
 
 ---
 
