@@ -74,4 +74,4 @@ For anything that does **not** belong in this repository (support, account issue
 Your feedback directly shapes the future of Daily Academic.  
 Thanks for helping us build a better platform for the academic community 🚀
 
-— The Daily Academic Team
+- The Daily Academic Team
