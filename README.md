@@ -3,7 +3,7 @@
 Welcome 👋  
 This repository exists **only** to collect **feature requests** and **bug reports** for **Daily Academic**.
 
-🌐 **Main website:** https://daily-academic.com
+🌐 **Main website:** https://www.daily-academic.com
 
 There is no application code here, this is a community feedback hub to help us improve the platform.
 
